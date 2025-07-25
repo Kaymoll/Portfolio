@@ -2,7 +2,7 @@
 A l'aide d'OpenClassrooms et d'autres plateformes, j'ai pu apprendre de nombreuses compétences telles que :
 <li>Les bases du langage HTLM5/CSS3.
 <li>Tester et déboguer un site avec les Chrome Devtools.
-<li>Appliquer la responsive.
+<li>Appliquer la responsivitée.
 <li>Comment déployer un site web.
 <li>L'importance d'avoir un référencement (SEO), une license et un système sécuriser avec une maintenance régulière.
 
